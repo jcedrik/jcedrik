@@ -4,7 +4,7 @@
 
 ### About me
 
-- 🎓 Computer engineering student at **Concordia**, concurrent B.Sc. in cybersecurity at **Polytechnique Montréal**
+- 🎓 Software engineering student at **Laval University**, concurrent B.Sc. in cybersecurity at **Polytechnique Montréal**
 - 💼 **AI software dev intern at CN** — building LLM-powered agents with Java / Spring AI and Vertex AI
 - 🛡️ AWS Solutions Architect, Azure Security Engineer (AZ-500), and CompTIA Security+ certified
 - 🔭 Building [canary](https://github.com/jcedrik/canary), a static security scanner for LLM apps
