@@ -24,7 +24,7 @@
 
 ### Certifications
 
-[AWS Solutions Architect Associate](https://www.credly.com/users/jean-cedrik-dorelas) · [Azure Security Engineer AZ-500](MS_LEARN_SHARE_LINK_AZ500) · [Azure AI Apps & Agents Developer AI-103](MS_LEARN_SHARE_LINK_AI103) · [CompTIA Security+](https://www.credly.com/users/jean-cedrik-dorelas)
+[AWS Solutions Architect Associate](https://www.credly.com/users/jean-cedrik-dorelas) · [Azure Security Engineer AZ-500](https://learn.microsoft.com/api/credentials/share/en-us/JeanCedrikDorelas-0667/8B72A6A124BD132B?sharingId=FE29143A3AAB6A16) · [Azure AI Apps & Agents Developer AI-103](https://learn.microsoft.com/api/credentials/share/en-us/JeanCedrikDorelas-0667/3B8DD04FA5520FD?sharingId=FE29143A3AAB6A16) · [CompTIA Security+](https://www.credly.com/users/jean-cedrik-dorelas)
 
 ---
 
