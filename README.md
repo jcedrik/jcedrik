@@ -1,13 +1,13 @@
-![banner](./banner.gif)
+﻿![banner](./banner.gif)
 
-# Hey, I'm Jean-Cédrik 👋
+# Hey, I'm Jean-CÃ©drik ðŸ‘‹
 
 ### About me
 
-- 🎓 Software engineering at **Université Laval**, concurrent B.Sc. in cybersecurity at **Polytechnique Montréal**
-- 💼 **Application software developer intern at CN**, building multi-agent LLM systems (Google ADK, Gemini, Vertex AI) with guardrails on input and output
-- 🛡️ Security of LLM applications is my angle: I build the agents at work and the tools that catch their failure modes on my own time
-- 🌎 [jcedrik.com](https://jcedrik.com) · 📫 **jcedrik100@gmail.com**
+- ðŸŽ“ Software engineering at **UniversitÃ© Laval**, concurrent B.Sc. in cybersecurity at **Polytechnique MontrÃ©al**
+- ðŸ’¼ **Application software developer intern at CN**, building multi-agent LLM systems (Google ADK, Gemini, Vertex AI) with guardrails on input and output
+- ðŸ›¡ï¸ Security of LLM applications is my angle: I build the agents at work and the tools that catch their failure modes on my own time
+- ðŸŒŽ [jcedrik.com](https://jcedrik.com) Â· ðŸ“« **jcedrik100@gmail.com**
 
 ---
 
@@ -24,7 +24,7 @@
 
 ### Certifications
 
-[AWS Solutions Architect Associate](https://www.credly.com/users/jean-cedrik-dorelas) · [Azure Security Engineer AZ-500](https://learn.microsoft.com/api/credentials/share/en-us/JeanCedrikDorelas-0667/8B72A6A124BD132B?sharingId=FE29143A3AAB6A16) · [Azure AI Apps & Agents Developer AI-103](https://learn.microsoft.com/api/credentials/share/en-us/JeanCedrikDorelas-0667/3B8DD04FA5520FD?sharingId=FE29143A3AAB6A16) · [CompTIA Security+](https://www.credly.com/users/jean-cedrik-dorelas)
+[AWS Solutions Architect Associate](https://www.credly.com/users/jean-cedrik-dorelas) Â· [Azure Security Engineer AZ-500](https://learn.microsoft.com/api/credentials/share/en-us/JeanCedrikDorelas-0667/8B72A6A124BD132B?sharingId=FE29143A3AAB6A16) Â· [Azure AI Apps & Agents Developer AI-103](https://learn.microsoft.com/api/credentials/share/en-us/JeanCedrikDorelas-0667/3B8DD04FA5520FD?sharingId=FE29143A3AAB6A16) Â· [CompTIA Security+](https://www.credly.com/users/jean-cedrik-dorelas)
 
 ---
 
@@ -42,5 +42,6 @@
 
 ### Let's connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-cédrik-dorélas-71a5a9356)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jean-cÃ©drik-dorÃ©las-71a5a9356)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/jean-cedrik-dorelas)
+
