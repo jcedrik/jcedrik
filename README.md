@@ -4,12 +4,27 @@
 
 ### About me
 
-- 🎓 Software engineering student at **Laval University**, concurrent B.Sc. in cybersecurity at **Polytechnique Montréal**
-- 💼 **AI software dev intern at CN** — building LLM-powered agents with Java / Spring AI and Vertex AI
-- 🛡️ AWS Solutions Architect, Azure Security Engineer (AZ-500), and CompTIA Security+ certified
-- 🔭 Building [canary](https://github.com/jcedrik/canary), a static security scanner for LLM apps
-- 🌎 My website: [jcedrik.com](https://jcedrik.com)
-- 📫 Reach me at **jcedrik100@gmail.com**
+- 🎓 Software engineering at **Université Laval**, concurrent B.Sc. in cybersecurity at **Polytechnique Montréal**
+- 💼 **Application software developer intern at CN**, building multi-agent LLM systems (Google ADK, Gemini, Vertex AI) with guardrails on input and output
+- 🛡️ Security of LLM applications is my angle: I build the agents at work and the tools that catch their failure modes on my own time
+- 🌎 [jcedrik.com](https://jcedrik.com) · 📫 **jcedrik100@gmail.com**
+
+---
+
+### Projects
+
+| | What it is | Proof |
+|---|---|---|
+| [**canary**](https://github.com/jcedrik/canary) | Static security scanner for LLM and agent code: prompt-injection sinks, tool over-privilege, leaked keys, PII in logs. SARIF, GitHub Action, OWASP LLM Top 10 mapping. `pip install canary-sast` | Benchmarked on 10 public LLM repos, every finding reviewed: 94 % precision on the injection rule, 2,231 to 222 findings between v0.1 and v0.2 |
+| [**forge**](https://github.com/jcedrik/forge) | Delivery pipeline that refuses insecure code at build (canary), deploys AWS infra compliant by construction (CloudFormation + 8 cfn-guard rules mapped to PCI DSS / NIST / ISO 27001) and detects attacks at runtime (triage) | Three failure demos the gates refuse, run in CI; cost line by line, zero after `make destroy` |
+| [**triage**](https://github.com/jcedrik/triage) | SOC alert correlation: Suricata or JSON in, ranked ATT&CK-mapped incidents out, KQL for Sentinel | Labelled benchmark in CI: 100 % campaign recall, 0 % false-positive rate after a scoring fix that was found by measuring (it was 10.9 %) |
+| [**CommUnique**](https://github.com/jcedrik/communique) | iOS app on the App Store: photo of a sign, OCR, 7-rule deterministic compliance report with legal citations. Anonymous by design, EXIF stripped, 90-day deletion | ~1,000 automated tests, validated against regulator examples and court rulings |
+| [**sentinel**](https://github.com/jcedrik/sentinel) | C++17 detection engine on a from-scratch Aho-Corasick automaton | Measured: 77x faster than naive at 10,000 signatures; compressing the transition table bought 1.9x |
+| [**sumi**](https://jcedrik.github.io/sumi/) | A small ink-timing game in one HTML file | Playable |
+
+### Certifications
+
+[AWS Solutions Architect Associate](https://www.credly.com/users/jean-cedrik-dorelas) · [Azure Security Engineer AZ-500](MS_LEARN_SHARE_LINK_AZ500) · [Azure AI Apps & Agents Developer AI-103](MS_LEARN_SHARE_LINK_AI103) · [CompTIA Security+](https://www.credly.com/users/jean-cedrik-dorelas)
 
 ---
 
