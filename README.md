@@ -5,7 +5,7 @@
 ### About me
 
 - 🎓 Software engineering at **Université Laval**, concurrent B.Sc. in cybersecurity at **Polytechnique Montréal**
-- 💼 **Application software developer intern at CN**, building multi-agent LLM systems (Google ADK, Gemini, Vertex AI) with guardrails on input and output
+- 💼 **AI Engineer intern at CN**, building multi-agent LLM systems (Google ADK, Gemini, Vertex AI) with guardrails on input and output
 - 🛡️ Security of LLM applications is my angle: I build the agents at work and the tools that catch their failure modes on my own time
 - 🎯 Offensive web security: **eWPT** certified, preparing the **Burp Suite Certified Practitioner (BSCP)**
 - ⚛️ Lately also building a real-time quantum error correction decoder, from simulation to FPGA
